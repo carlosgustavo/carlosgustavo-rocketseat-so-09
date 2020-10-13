@@ -7,10 +7,10 @@
 The project makes it possible to register users, make reservations and obtain a visual response, upload images.
 </h4>
 <p align="center">
-  <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-10">
-  <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/rocketseat-so-10">
-  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/rocketseat-so-10">
-  <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/rocketseat-so-10">
+  <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/rocketseat-so-09">
+  <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/rocketseat-so-09">
+  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/rocketseat-so-09">
+  <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/rocketseat-so-09">
 </p>
 <p align="center">
   <a href="#rocket-technologies"">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@ The project makes it possible to register users, make reservations and obtain a 
   <a href="#memo-license">License</a>
 </p>
                          
-![front-end](https://user-images.githubusercontent.com/53797220/95795214-322d0f00-0cc0-11eb-8c2e-aad6de579e79.gif)
+![semana-omnistack-09](https://user-images.githubusercontent.com/53797220/95807304-36692480-0ce0-11eb-9abf-7e8fe98d5c09.gif)
 
 ## :rocket: Technologies
 
