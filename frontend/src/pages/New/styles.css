@@ -1,0 +1,106 @@
+.man-new {
+  margin: 15px auto 0;
+  max-width: 450px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content-new {
+  width: 100%;
+  background: #fff;
+  margin-top: 50px;
+  border-radius: 4px;
+  padding: 30px;
+  max-width: 410px;
+}
+
+.content-new > p {
+  font-size: 22px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.content-new form {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-new form label {
+  font-size: 14px;
+  color: rgb(22, 20, 20);
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.content-new form label span {
+  font-weight: normal;
+  color: #999;
+  font-size: 12px;
+}
+
+.content-new form input {
+  margin-bottom: 20px;
+  height: 50px;
+  font-size: 16px;
+  height: 45px;
+  width: 100%;
+  display: block;
+
+  box-sizing: border-box;
+  outline: none;
+  letter-spacing: 1px;
+  background-color: #cce4ff;
+  border: 1px solid #007aff;
+  color: #161616;
+  font-size: 16px;
+  padding: 15px 10px 10px 20px;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+
+.content-new button.btn {
+  width: 100%;
+
+  margin-top: 20px;
+  border-radius: 4px;
+  height: 42px;
+  font-size: 16px;
+  background: #0678f1;
+  font-weight: bold;
+  color: #ffff;
+  cursor: pointer;
+  padding: 8px 16px;
+  border: none;
+  display: block;
+  outline: 0;
+}
+
+.content-new button.btn:hover {
+  color: #007bff7b !important;
+  background-color: rgba(236, 239, 241, 0.973) !important;
+  border: 1px solid #1011113d;
+}
+.content-new form label#thumbnail {
+  margin-bottom: 20px;
+  border: 1px dashed #007aff;
+  background-size: cover;
+  cursor: pointer;
+  height: 160px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-new form label#thumbnail input {
+  display: none;
+}
+
+.content-new form label#thumbnail.has-thumbnail {
+  border: 0;
+}
+
+.content-new form label#thumbnail.has-thumbnail img {
+  display: none;
+}
