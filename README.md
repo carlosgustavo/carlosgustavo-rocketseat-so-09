@@ -1,5 +1,7 @@
 
 <h1 align="center">
+         <img alt="css-site-register-boxmodal" src="https://raw.githubusercontent.com/carlosgustavo/rocketseat-so-09/c7e833887e23cb937e4e386b5fe58cc7846630ed/frontend/src/assets/logo.svg" />
+    <br>
      Rocketseat Semana Omnistack 09
 </h1>
 
